@@ -1,13 +1,13 @@
 [
     {
         "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
-        "Name": "XIVSlothCombo2",
-        "Punchline": "hi Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Description": "hi Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog": "hi FFXIV 6.2 Update! Features, Fixes & Enhancements for Framework, Globals, AST, BLU, DNC, DRK, GNB, NIN, NINPvP, RPR and SAM. Please check the project's GitHub or Discord for a full changelog.",
+        "Name": "XIVSlothCombo",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Changelog": "FFXIV 6.2 Update! Features, Fixes & Enhancements for Framework, Globals, AST, BLU, DNC, DRK, GNB, NIN, NINPvP, RPR and SAM. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
         "AssemblyVersion": "3.0.17.0",
-        "RepoUrl": "https://github.com/iluvrust/XIVSlothCombo",
+        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
