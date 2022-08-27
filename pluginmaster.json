@@ -7,7 +7,7 @@
         "Changelog": "FFXIV 6.2 Update! Features, Fixes & Enhancements for Framework, Globals, AST, BLU, DNC, DRK, GNB, NIN, NINPvP, RPR and SAM. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo2",
         "AssemblyVersion": "3.0.17.0",
-        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
+        "RepoUrl": "https://github.com/iluvrust/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
